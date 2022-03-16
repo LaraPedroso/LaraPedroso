@@ -3,5 +3,5 @@
 ![Lara GitHub stats](https://github-readme-stats.vercel.app/api?username=LaraPedroso&show_icons=true&theme=midnight-purple) <img align="right" src="https://media.giphy.com/media/JVxyiOsbPWxag/giphy.gif" height="200" width="150" margin-top = "10%">
 <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=LaraPedroso&layout=compact&theme=midnight-purple" />
 
-  ![Snake animation](https://github.com/LaraPedroso/LaraPedroso/blob/output/github-contribution-grid-snake.svg)
+
 

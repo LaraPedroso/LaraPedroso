@@ -3,4 +3,4 @@
 ![Lara GitHub stats](https://github-readme-stats.vercel.app/api?username=LaraPedroso&show_icons=true&theme=midnight-purple) 
 <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=LaraPedroso&layout=compact&theme=midnight-purple" />
 
-![Snake animation](https://github.com/LaraPedroso/LaraPedroso/blob/output/github-contribution-grid-snake.svg)
+

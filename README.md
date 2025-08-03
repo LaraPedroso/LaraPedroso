@@ -7,10 +7,10 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,github,git,docker,materialui,tailwind,bootstrap,postman" />
+    
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,git,react,nextjs,nodejs,prisma,docker,materialui,tailwind,bootstrap,jest,postman,mysql,postgres,linux&perline=9)](https://skillicons.dev)
   </a>
 </div>
-
 
 ###
 
